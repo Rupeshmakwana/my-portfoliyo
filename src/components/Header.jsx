@@ -5,7 +5,7 @@ export default function Header() {
           <div className="top-bar">
             <a className="menu-toggle" href="#"><span>Menu</span></a>
             <div className="logo">
-              <a href="#top">Mukesh Kirholiya</a>
+              <a href="#top">Roopesh Makwana</a>
             </div>
             <nav id="main-nav-wrap">
               <ul className="main-navigation">
