@@ -65,7 +65,7 @@ export default function Contact() {
             </div>
             <h5>Email Me At</h5>
             <p>
-              mukesh2009@gmail
+              makwanarupesh089@gmail.com
             </p>
 
           </div>
@@ -76,7 +76,7 @@ export default function Contact() {
             </div>
             <h5>Call Me At</h5>
             <p>
-              Phone: (+91) 74711 88684
+              Phone: (+91) 7024440887
             </p>
           </div>
         </div>

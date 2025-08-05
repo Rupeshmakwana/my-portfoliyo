@@ -6,7 +6,7 @@ export default function Intro() {
           <div className="row">
             <div className="col-twelve">
               <h5>Hello,</h5>
-              <h1>I'm Mukesh Kirholiya.</h1>
+              <h1>I'm Roopesh Makwana.</h1>
               <p className="intro-position">
                 <span>Full Stack Developer based in Indore, India.</span><br />
                 <span>Welcome to my portfolio!</span>

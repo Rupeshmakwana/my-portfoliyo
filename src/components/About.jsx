@@ -10,7 +10,7 @@ export default function About() {
             <div className="intro-info">
               <Image src="/images/profile-pic.jpg" alt="Mukesh Kirholiya" width={100} height={100} />
               <p className="lead">
-                Full Stack Developer with 8+ years of experience in PHP, Laravel, CodeIgniter, MySQL, REST APIs,
+                Full Stack Developer with 8+ years of experience in PHP, Laravel, MySQL, REST APIs,
                 and building scalable backend systems across domains like e-commerce, education, and healthcare.
               </p>
             </div>
@@ -21,11 +21,11 @@ export default function About() {
           <div className="col-six tab-full">
             <h3>Profile</h3>
             <ul className="info-list">
-              <li><strong>Fullname:</strong> <span>Mukesh Kirholiya</span></li>
-              <li><strong>Birth Date:</strong> <span>December 13, 1982</span></li>
+              <li><strong>Fullname:</strong> <span>Roopesh Makwana</span></li>
+              <li><strong>Birth Date:</strong> <span>July 01, 1992</span></li>
               <li><strong>Job:</strong> <span>Full Stack Developer (Laravel, CodeIgniter, NEXT)</span></li>
               <li><strong>LinkedIn:</strong> <span>linkedin.com/in/mukesh-kirholiya-3661b520</span></li>
-              <li><strong>Email:</strong> <span>mukesh2009@gmail.com</span></li>
+              <li><strong>Email:</strong> <span>makwanarupesh089@gmail.com</span></li>
             </ul>
           </div>
           <div className="col-six tab-full">
