@@ -13,37 +13,38 @@ export default function Portfolio() {
                 <div className="row portfolio-content">
                     <div className="col-twelve">
                         <div id="folio-wrapper" className="block-1-2 block-mob-full stack">
-                            {/* Foodingram */}
+                            {/* Assetlyst */}
                             <div className="bgrid folio-item">
                                 <div className="item-wrap">
-                                    <Image src="/images/portfolio/foodingram.jpg" alt="Project" width={1200} height={800} />
+                                    <Image src="/images/portfolio/assetlyst.png" alt="Assetlyst" width={1200} height={800} />
                                     <a className="overlay">
                                         <div className="folio-item-table">
                                             <div className="folio-item-cell">
-                                                <h3 className="folio-title">Foodingram</h3>
-                                                <span className="folio-types">https://foodingram.codiantprod.com</span><br />
-                                                <span className="folio-types">• A food delivery platform with a focus on local restaurants.</span>
-                                                <span className="folio-types">• Features: Restaurant listings, user reviews, order tracking, and payment integration.</span>
-                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, React</span>
+                                                <h3 className="folio-title">Assetlyst</h3>
+                                                <span className="folio-types">https://assetlyst.com/</span><br />
+                                                <span className="folio-types">• A real state property based platform.</span>
+                                                <span className="folio-types">• Features: Sold ,Purchased and leased any property of USA.</span>
+                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, Javascript</span>
                                             </div>
                                         </div>
                                     </a>
                                 </div>
                             </div>
 
-                            {/* UACRDC */}
+                            {/* Mightyfitness */}
                             <div className="bgrid folio-item">
                                 <div className="item-wrap">
-                                    <Image src="/images/portfolio/uacrdc.jpg" alt="UACRDC" width={1200} height={800} />
+                                    <Image src="/images/portfolio/mightyfitness.png" alt="Mightyfitness" width={1200} height={800} />
                                     <a className="overlay">
                                         <div className="folio-item-table">
                                             <div className="folio-item-cell">
-                                                <h3 className="folio-title">UACRCC</h3>
-                                                <span className="folio-types">https://uacrdc.com</span><br />
-                                                <span className="folio-types">Electronics eCommerce Platform</span>
-                                                <span className="folio-types">• Complete e-commerce solution for electronics products. RBAC integration.</span>
-                                                <span className="folio-types">• Features: Secure checkout, product filtering, inventory control, customer accounts.</span>
-                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, Bootstrap</span>
+                                                <h3 className="folio-title">Mightyfitness</h3>
+                                                <span className="folio-types">https://mightyfitness.meetmighty.com/</span><br />
+                                                <span className="folio-types">Health and Fitness based Platform</span>
+                                                <span className="folio-types">• This website use for health, fitness and diet service provide with user can 
+purchase fitness related product and take a subscription</span>
+                                                <span className="folio-types">• Features: purchase fitness product, Search and filtering products.</span>
+                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, Bootstrap, Javascript, Jquery</span>
                                             </div>
                                         </div>
                                     </a>
@@ -87,114 +88,24 @@ export default function Portfolio() {
                                 </div>
                             </div>
 
-                            {/* innovate-classroom */}
+                            {/* Mybillionlms */}
                             <div className="bgrid folio-item">
                                 <div className="item-wrap">
-                                    <Image src="/images/portfolio/innovate-classroom.jpg" alt="Project" width={1200} height={800} />
+                                    <Image src="/images/portfolio/mybillionlms.png" alt="Project" width={1200} height={800} />
                                     <a className="overlay">
                                         <div className="folio-item-table">
                                             <div className="folio-item-cell">
-                                                <h3 className="folio-title">Innovate-classroom</h3>
-                                                <span className="folio-types">https://innovate-classroom-qa.codiantdev.com</span><br />
+                                                <h3 className="folio-title">Mybillionlms</h3>
+                                                <span className="folio-types">https://www.mybillioninc.com/</span><br />
                                                 <span className="folio-types">• School, student, courses, quizzes and assignments management.</span>
                                                 <span className="folio-types">• Features: Course management, user registration, progress tracking.</span>
-                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, Bootstrap</span>
+                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, Bootstrap, javascript, jquery</span>
                                             </div>
                                         </div>
                                     </a>
                                 </div>
                             </div>
 
-                            {/* Chess Learners */}
-                            <div className="bgrid folio-item">
-                                <div className="item-wrap">
-                                    <Image src="/images/portfolio/chesslearners.jpg" alt="Project" width={1200} height={800} />
-                                    <a className="overlay">
-                                        <div className="folio-item-table">
-                                            <div className="folio-item-cell">
-                                                <h3 className="folio-title">Chess Learners LMS</h3>
-                                                <span className="folio-types">https://chesslearners.codiantprod.com</span><br /><span className="folio-types">Chess Learning Management System</span>
-                                                <span className="folio-types">• A platform for chess enthusiasts to learn and improve their skills.</span>
-                                                <span className="folio-types">• Features: Course management, user registration, progress tracking, and quizzes.</span>
-                                                <span className="folio-types">• Tech Stack: Laravel, React, MySQL, Bootstrap, firebase notification.</span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-                            {/* krishnacoming */}
-                            <div className="bgrid folio-item">
-                                <div className="item-wrap">
-                                    <Image src="/images/portfolio/krishnacoming.jpg" alt="Project" width={1200} height={800} />
-                                    <a className="overlay">
-                                        <div className="folio-item-table">
-                                            <div className="folio-item-cell">
-                                                <h3 className="folio-title">krishnacoming</h3>
-                                                <span className="folio-types">https://krishnacoming.com</span><br />
-                                                <span className="folio-types">Online Garbh Sanskar Platform</span>
-                                                <span className="folio-types">• Provides resources and courses for prenatal education and live sessions with experts.</span>
-                                                <span className="folio-types">• Features: Course management, user registration, progress tracking.</span>
-                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, Bootstrap, firebase notification.</span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-                            {/* catalyser */}
-                            <div className="bgrid folio-item">
-                                <div className="item-wrap">
-                                    <Image src="/images/portfolio/catalyser.jpg" alt="Project" width={1200} height={800} />
-                                    <a className="overlay">
-                                        <div className="folio-item-table">
-                                            <div className="folio-item-cell">
-                                                <h3 className="folio-title">Catalyser</h3>
-                                                <span className="folio-types">https://catalyser.in</span><br />
-                                                <span className="folio-types">• Institute Agency Platform</span>
-                                                <span className="folio-types">• Features: Course management, student enrollment, progress tracking.</span>
-                                                <span className="folio-types">• Tech Stack: Codeigniter, MySQL, Bootstrap</span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-                            {/* ntseguru */}
-                            <div className="bgrid folio-item">
-                                <div className="item-wrap">
-                                    <Image src="/images/portfolio/ntseguru.jpg" alt="Project" width={1200} height={800} />
-                                    <a className="overlay">
-                                        <div className="folio-item-table">
-                                            <div className="folio-item-cell">
-                                                <h3 className="folio-title">Ntseguru</h3>
-                                                <span className="folio-types">https://ntseguru.in</span><br />
-                                                <span className="folio-types">• Educational platform for NTSE exam preparation.</span>
-                                                <span className="folio-types">• Features: Mock tests, study materials, performance analytics.</span>
-                                                <span className="folio-types">• Tech Stack: Laravel, MySQL, Bootstrap</span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-                            {/* itspark */}
-                            <div className="bgrid folio-item">
-                                <div className="item-wrap">
-                                    <Image src="/images/portfolio/itspark.jpg" alt="Project" width={1200} height={800} />
-                                    <a className="overlay">
-                                        <div className="folio-item-table">
-                                            <div className="folio-item-cell">
-                                                <h3 className="folio-title">ITSpark</h3>
-                                                <span className="folio-types">https://itsparktechnology.com</span><br />
-                                                <span className="folio-types">• IT Services and Solutions Platform</span>
-                                                <span className="folio-types">• Features: Service listings, client testimonials, contact forms.</span>
-                                                <span className="folio-types">• Tech Stack: Codeigniter, MySQL, Bootstrap</span>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
