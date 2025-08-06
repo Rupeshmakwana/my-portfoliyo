@@ -9,7 +9,7 @@ export default function Services() {
           <h5>Services</h5>
           <h1>What I Can Do For You</h1>
           <p className="lead">
-            Laravel & CodeIgniter dev, API integrations, scalable backend design, payment gateway setup, cloud deployments.
+            Laravel dev, API integrations, scalable backend design, payment gateway setup, cloud deployments.
           </p>
         </div>
         <div className="row services-content">
