@@ -7,12 +7,12 @@ export default function Footer() {
 
      			<ul className="footer-social">        
 			      	<li>
-						<a href="https://www.linkedin.com/in/mukesh-kirholiya-3661b520/" target="_blank">
+						<a href="https://www.linkedin.com/in/roopesh-makwana-831530186" target="_blank">
 							<i className="fa fa-linkedin"></i>
 						</a>
 					</li>
             		<li>
-						<a href="https://github.com/mukesh2009" target="_blank">
+						<a href="#" target="_blank">
 							<i className="fa fa-github"></i>
 						</a>
 					</li>
