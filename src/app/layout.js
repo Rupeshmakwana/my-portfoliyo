@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Mukesh Kirholiya - Full Stack Developer",
-  description: "Portfolio of Mukesh Kirholiya, a Full Stack Developer with expertise in PHP, Laravel, CodeIgniter, and MySQL.",
+  title: "Roopesh Makwana - Full Stack Developer",
+  description: "Portfolio of Roopesh Makwana, a Full Stack Developer with expertise in PHP, Laravel, Node js, and MySQL.",
 };
 
 export default function RootLayout({ children }) {
